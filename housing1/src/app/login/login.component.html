@@ -1,0 +1,21 @@
+<div class="card">
+  <div class="row">
+    <div class="col-sm-2">
+      <h2>Signup</h2>
+      <input #email class="form-control" type="text" placeholder="Enter the username" />
+      <input #pass class="form-control" type="password" placeholder="Enter the password" />
+      <button (click)="onSignUp(email.value , pass.value)" class="btn btn-primary">Signup</button>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="row">
+    <div class="col-sm-2">
+      <h2>Signin</h2>
+      <input #emailInp class="form-control" type="text" placeholder="Enter the username" />
+      <input #passInp class="form-control" type="password" placeholder="Enter the password" />
+      <button (click)="onSignIn(emailInp.value,passInp.value)" class="btn btn-primary">Signin</button>
+    </div>
+  </div>
+</div>

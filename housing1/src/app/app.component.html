@@ -1,0 +1,10 @@
+<div *ngIf="!isLoggedIn">
+  <app-login (isLoggedInEvent)="isLoggedIn=$event"></app-login>
+</div>
+
+<div *ngIf="isLoggedIn">
+  <app-header-component (isLoggedInEvent)="isLoggedIn=$event"></app-header-component>
+  <div class="container" class="margin-top:80px">
+    <app-property-list-component></app-property-list-component>
+  </div>
+</div>

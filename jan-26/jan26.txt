@@ -1,0 +1,96 @@
+
+
+
+
+
+all events for the html elements in angular will be wrapped inside ()
+example events
+click , keyup
+
+keyup event-->Listener which is registered on the html input element
+input-->keyup-->binds to the function -->onKey($event)
+
+DOM-> Document Object Model
+
+HTML file-->web page-->html code parsed by the v8 engine (html parser)-->dom tree
+By the time the js program reached execution phase we have DOM tree created / DOM loaded
+
+window.onload as a wrapper in most of the custom js libraries
+
+Project-->Angular technology (HTML, CSS , JS)
+Project-->1.)TodoApp , 2.)House Brokerage (Magic bricks)
+
+Bi weekly project:
+==================
+
+Every day we will have 10 min stand up for the project
+(blockers ? any dependancies)
+Working individually
+Individual contributor
+
+Git hub acounts-->add me as contributor or editor
+Git hub ID : DhanaTontanahal
+
+Please ping me your git hub IDS
+=============================================================================================================
+Coming requirements, I will be posting daily requirements in the whatsapp group.
+=============================================================================================================
+
+1 live project (inspiration) during daily classes
+you can  take ins / implem help from that classes
+covering all concepts required to match / satisfy the dev needs of the requirement
+===============================================================================================================
+
+
+Internal working Java script
+node, npm , project structure , why angular , history of angular , DEV tools console , simple vannila HTML , JS program , Angular components , 
+created a new project
+Changed template of existing component
+
+
+
+Created a new component
+Angular CLI
+
+
+ng new proj-name-->ready made project-->config , lint files, unit test setup , root module , other dev config including dep mgmt
+
+ng---->?
+
+node.js--->npm--->npm install -g @angular/cli
+
+
+==================================================
+Hit command in command promt--->Looks for the command in the OS-->searches for all the softwares installed in the OS through Env variables path , gets the command from there and executes
+
+https://ui.dev/javascript-visualizer/
+
+
+
+
+// node
+// (npm)---> npm install -g @angular/cli --->ng -version ---> ng new project-name --->ng serve
+
+
+
+
+Revision of earlier concepts
+Quiz
+Related to Bi weekly project
+Git contributors
+Simple form in vannilla Js and Angular
+DOM tree
+
+not defined , undefined , null : what is the difference
+DOM tree
+CSS --> box model , basic css styling with vanilla /angular
++
+Revision-2
+Quiz-2
+Project standup/updates
+Memory model in JS,
+Templates in Angular
+Communication betwen components
+
+
+

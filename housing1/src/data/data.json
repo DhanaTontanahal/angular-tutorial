@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "houseName": "Big house 2BHK",
+    "price": 2652,
+    "area": "area near to city"
+  },
+  {
+    "id": 2,
+    "houseName": "Big house 3BHK",
+    "price": 6573,
+    "area": "Sandiago"
+  },
+  {
+    "id": 3,
+    "houseName": "Sanath bros home",
+    "price": 7657,
+    "area": "checkpost"
+  },
+  {
+    "id": 4,
+    "houseName": "Weaven",
+    "price": 65173,
+    "area": "StateStreet road123"
+  }
+]

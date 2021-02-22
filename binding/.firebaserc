@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sample-project-2e877": {
+      "hosting": {
+        "binding": [
+          "sample-project-2e877"
+        ]
+      }
+    }
+  }
+}
